@@ -238,28 +238,16 @@
 
     var PROJECTS = [
         {
-            name: 'Project Alpha',
+            name: 'Realtime Whiteboard',
             desc: 'A real-time collaborative whiteboard with WebSocket support and CRDT-based sync.',
             tech: 'React, TypeScript, WebSocket, Yjs',
-            url: 'github.com/yourusername/project-alpha'
+            url: 'github.com/mdnayanchowdhury9/realtime-whiteboard'
         },
         {
             name: 'DevTrack CLI',
             desc: 'Command-line tool for tracking development time across projects with rich reports.',
             tech: 'Node.js, SQLite, Commander.js',
-            url: 'github.com/yourusername/devtrack'
-        },
-        {
-            name: 'PixelForge',
-            desc: 'Browser-based image editor with layer support, filters, and export capabilities.',
-            tech: 'Canvas API, WebGL, React',
-            url: 'github.com/yourusername/pixelforge'
-        },
-        {
-            name: 'API Gateway',
-            desc: 'Lightweight API gateway with rate limiting, caching, and request logging.',
-            tech: 'Go, Redis, Docker',
-            url: 'github.com/yourusername/api-gateway'
+            url: 'github.com/mdnayanchowdhury9/devtrack-cli'
         }
     ];
 
